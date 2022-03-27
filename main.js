@@ -58,7 +58,7 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
 	}), 'yellow'))
 	console.log(color('[DENIS]', 'cyan'), color('WELCOME', 'white'))
 	console.log(color('[SER]', 'cyan'), color('BOT RUNNING', 'yellow'))
-	bosco.browserDescription = ["SUBSCRIBE YT - [PEPE - SIR]", "firefox", "3.0.0"];
+	bosco.browserDescription = ["SUBSCRIBE YT - [SYGO - MP4]", "firefox", "3.0.0"];
 
 	// Menunggu QR
 	bosco.on('qr', () => {
